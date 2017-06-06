@@ -9,4 +9,4 @@ LinuxUser
 1. Build this code base from jenkins
 2. Deploy the code to tomcat server
 3. Use any conf mgmt tool for achieving this.
-
+4. Create a docker file also for this app

@@ -1,2 +1,6 @@
 My first line in this file.
 This is my second line to test.
+
+WindowsUser
+1.Execute smoke test on premise and cloud deployments.
+2.

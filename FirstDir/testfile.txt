@@ -1,6 +1,11 @@
-My first line in this file.
-This is my second line to test.
-
+Testers
 WindowsUser
 1.Execute smoke test on premise and cloud deployments.
 2.
+
+DevOps
+LinuxUser
+1. Build this code base from jenkins
+2. Deploy the code to tomcat server
+3. Use any conf mgmt tool for achieving this.
+

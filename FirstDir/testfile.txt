@@ -1,7 +1,8 @@
 Testers
 WindowsUser
 1.Execute smoke test on premise and cloud deployments.
-2.
+2. Execute selenium
+4. Add them to CI
 
 DevOps
 LinuxUser
